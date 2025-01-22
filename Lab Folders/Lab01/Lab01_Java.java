@@ -2,11 +2,11 @@
 // Sample Java file
 void testMethod1()
   {
-  //First command x = y + z
-  //Second commnad print(x)
+  First command x = y + z
+  Second commnad print(x)
 
 
-  //Last line print('Good bye')
+  Last line print('Good bye')
 }
 
 void testMethod2()
